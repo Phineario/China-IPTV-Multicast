@@ -1,1073 +1,1073 @@
 #EXTM3U
 #EXTINF:-1 ,广东珠江 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.1:5146
+rtp://239.77.0.1:5146
 #EXTINF:-1 ,广东卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.2:5146
+rtp://239.77.0.2:5146
 #EXTINF:-1 ,广东珠江
-http://mail.beixiaoming.com:4000/udp/239.77.0.3:5146
+rtp://239.77.0.3:5146
 #EXTINF:-1 ,广东新闻
-http://mail.beixiaoming.com:4000/udp/239.77.0.4:5146
+rtp://239.77.0.4:5146
 #EXTINF:-1 ,广东公共
-http://mail.beixiaoming.com:4000/udp/239.77.0.5:5146
+rtp://239.77.0.5:5146
 #EXTINF:-1 ,广东体育
-http://mail.beixiaoming.com:4000/udp/239.77.0.6:5146
+rtp://239.77.0.6:5146
 #EXTINF:-1 ,经济科教
-http://mail.beixiaoming.com:4000/udp/239.77.0.8:5146
+rtp://239.77.0.8:5146
 #EXTINF:-1 ,南方卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.9:5146
+rtp://239.77.0.9:5146
 #EXTINF:-1 ,延边卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.10:5146
+rtp://239.77.0.10:5146
 #EXTINF:-1 ,广东影视
-http://mail.beixiaoming.com:4000/udp/239.77.0.11:5146
+rtp://239.77.0.11:5146
 #EXTINF:-1 ,广东少儿
-http://mail.beixiaoming.com:4000/udp/239.77.0.12:5146
+rtp://239.77.0.12:5146
 #EXTINF:-1 ,嘉佳卡通
-http://mail.beixiaoming.com:4000/udp/239.77.0.13:5146
+rtp://239.77.0.13:5146
 #EXTINF:-1 ,广东房产
-http://mail.beixiaoming.com:4000/udp/239.77.0.14:5146
+rtp://239.77.0.14:5146
 #EXTINF:-1 ,茶频道 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.15:5146
+rtp://239.77.0.15:5146
 #EXTINF:-1 ,岭南戏曲
-http://mail.beixiaoming.com:4000/udp/239.77.0.16:5146
+rtp://239.77.0.16:5146
 #EXTINF:-1 ,河南卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.17:5146
+rtp://239.77.0.17:5146
 #EXTINF:-1 ,现代教育
-http://mail.beixiaoming.com:4000/udp/239.77.0.18:5146
+rtp://239.77.0.18:5146
 #EXTINF:-1 ,南方购物 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.19:5146
+rtp://239.77.0.19:5146
 #EXTINF:-1 ,广东移动
-http://mail.beixiaoming.com:4000/udp/239.77.0.20:5146
+rtp://239.77.0.20:5146
 #EXTINF:-1 ,求索纪录 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.21:5146
+rtp://239.77.0.21:5146
 #EXTINF:-1 ,南方购物 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.22:5146
+rtp://239.77.0.22:5146
 #EXTINF:-1 ,汕尾新闻综合HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.25:5146
+rtp://239.77.0.25:5146
 #EXTINF:-1 ,CHC高清电影
-http://mail.beixiaoming.com:4000/udp/239.77.0.27:5146
+rtp://239.77.0.27:5146
 #EXTINF:-1 ,CETV2SD
-http://mail.beixiaoming.com:4000/udp/239.77.0.28:5146
+rtp://239.77.0.28:5146
 #EXTINF:-1 ,CETV4SD
-http://mail.beixiaoming.com:4000/udp/239.77.0.29:5146
+rtp://239.77.0.29:5146
 #EXTINF:-1 ,CCTV-1
-http://mail.beixiaoming.com:4000/udp/239.77.0.30:5146
+rtp://239.77.0.30:5146
 #EXTINF:-1 ,CCTV-2
-http://mail.beixiaoming.com:4000/udp/239.77.0.31:5146
+rtp://239.77.0.31:5146
 #EXTINF:-1 ,CCTV-3
-http://mail.beixiaoming.com:4000/udp/239.77.0.32:5146
+rtp://239.77.0.32:5146
 #EXTINF:-1 ,CCTV-4
-http://mail.beixiaoming.com:4000/udp/239.77.0.33:5146
+rtp://239.77.0.33:5146
 #EXTINF:-1 ,CCTV-5
-http://mail.beixiaoming.com:4000/udp/239.77.0.34:5146
+rtp://239.77.0.34:5146
 #EXTINF:-1 ,CCTV-6
-http://mail.beixiaoming.com:4000/udp/239.77.0.35:5146
+rtp://239.77.0.35:5146
 #EXTINF:-1 ,CCTV-7
-http://mail.beixiaoming.com:4000/udp/239.77.0.36:5146
+rtp://239.77.0.36:5146
 #EXTINF:-1 ,CCTV-8
-http://mail.beixiaoming.com:4000/udp/239.77.0.37:5146
+rtp://239.77.0.37:5146
 #EXTINF:-1 ,CCTV-9
-http://mail.beixiaoming.com:4000/udp/239.77.0.38:5146
+rtp://239.77.0.38:5146
 #EXTINF:-1 ,CCTV-10
-http://mail.beixiaoming.com:4000/udp/239.77.0.39:5146
+rtp://239.77.0.39:5146
 #EXTINF:-1 ,CCTV-11
-http://mail.beixiaoming.com:4000/udp/239.77.0.40:5146
+rtp://239.77.0.40:5146
 #EXTINF:-1 ,CCTV-12
-http://mail.beixiaoming.com:4000/udp/239.77.0.41:5146
+rtp://239.77.0.41:5146
 #EXTINF:-1 ,CCTV-13
-http://mail.beixiaoming.com:4000/udp/239.77.0.42:5146
+rtp://239.77.0.42:5146
 #EXTINF:-1 ,CCTV-14
-http://mail.beixiaoming.com:4000/udp/239.77.0.43:5146
+rtp://239.77.0.43:5146
 #EXTINF:-1 ,CCTV-15
-http://mail.beixiaoming.com:4000/udp/239.77.0.44:5146
+rtp://239.77.0.44:5146
 #EXTINF:-1 ,CGTN
-http://mail.beixiaoming.com:4000/udp/239.77.0.45:5146
+rtp://239.77.0.45:5146
 #EXTINF:-1 ,湖南卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.46:5146
+rtp://239.77.0.46:5146
 #EXTINF:-1 ,浙江卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.47:5146
+rtp://239.77.0.47:5146
 #EXTINF:-1 ,江苏卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.48:5146
+rtp://239.77.0.48:5146
 #EXTINF:-1 ,东方卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.49:5146
+rtp://239.77.0.49:5146
 #EXTINF:-1 ,安徽卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.50:5146
+rtp://239.77.0.50:5146
 #EXTINF:-1 ,北京卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.51:5146
+rtp://239.77.0.51:5146
 #EXTINF:-1 ,天津卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.52:5146
+rtp://239.77.0.52:5146
 #EXTINF:-1 ,山东卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.53:5146
+rtp://239.77.0.53:5146
 #EXTINF:-1 ,江西卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.54:5146
+rtp://239.77.0.54:5146
 #EXTINF:-1 ,深圳卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.55:5146
+rtp://239.77.0.55:5146
 #EXTINF:-1 ,湖北卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.56:5146
+rtp://239.77.0.56:5146
 #EXTINF:-1 ,辽宁卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.57:5146
+rtp://239.77.0.57:5146
 #EXTINF:-1 ,黑龙江卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.58:5146
+rtp://239.77.0.58:5146
 #EXTINF:-1 ,贵州卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.59:5146
+rtp://239.77.0.59:5146
 #EXTINF:-1 ,四川卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.60:5146
+rtp://239.77.0.60:5146
 #EXTINF:-1 ,河南卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.61:5146
+rtp://239.77.0.61:5146
 #EXTINF:-1 ,云南卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.62:5146
+rtp://239.77.0.62:5146
 #EXTINF:-1 ,重庆卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.63:5146
+rtp://239.77.0.63:5146
 #EXTINF:-1 ,河北卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.64:5146
+rtp://239.77.0.64:5146
 #EXTINF:-1 ,东南卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.65:5146
+rtp://239.77.0.65:5146
 #EXTINF:-1 ,广西卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.66:5146
+rtp://239.77.0.66:5146
 #EXTINF:-1 ,吉林卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.67:5146
+rtp://239.77.0.67:5146
 #EXTINF:-1 ,陕西卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.68:5146
+rtp://239.77.0.68:5146
 #EXTINF:-1 ,山西卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.69:5146
+rtp://239.77.0.69:5146
 #EXTINF:-1 ,内蒙古卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.70:5146
+rtp://239.77.0.70:5146
 #EXTINF:-1 ,青海卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.71:5146
+rtp://239.77.0.71:5146
 #EXTINF:-1 ,海南卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.72:5146
+rtp://239.77.0.72:5146
 #EXTINF:-1 ,宁夏卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.73:5146
+rtp://239.77.0.73:5146
 #EXTINF:-1 ,西藏卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.74:5146
+rtp://239.77.0.74:5146
 #EXTINF:-1 ,新疆卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.75:5146
+rtp://239.77.0.75:5146
 #EXTINF:-1 ,甘肃卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.76:5146
+rtp://239.77.0.76:5146
 #EXTINF:-1 ,兵团卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.77:5146
+rtp://239.77.0.77:5146
 #EXTINF:-1 ,CCTV-4 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.78:5146
+rtp://239.77.0.78:5146
 #EXTINF:-1 ,卡酷动画
-http://mail.beixiaoming.com:4000/udp/239.77.0.79:5146
+rtp://239.77.0.79:5146
 #EXTINF:-1 ,金鹰卡通
-http://mail.beixiaoming.com:4000/udp/239.77.0.80:5146
+rtp://239.77.0.80:5146
 #EXTINF:-1 ,哈哈炫动
-http://mail.beixiaoming.com:4000/udp/239.77.0.81:5146
+rtp://239.77.0.81:5146
 #EXTINF:-1 ,CETV-1标清
-http://mail.beixiaoming.com:4000/udp/239.77.0.82:5146
+rtp://239.77.0.82:5146
 #EXTINF:-1 ,山东教育
-http://mail.beixiaoming.com:4000/udp/239.77.0.83:5146
+rtp://239.77.0.83:5146
 #EXTINF:-1 ,广东卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.84:5146
+rtp://239.77.0.84:5146
 #EXTINF:-1 ,经济科教HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.85:5146
+rtp://239.77.0.85:5146
 #EXTINF:-1 ,CCTV-1 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.86:5146
+rtp://239.77.0.86:5146
 #EXTINF:-1 ,CCTV-5+ HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.87:5146
+rtp://239.77.0.87:5146
 #EXTINF:-1 ,湖南卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.88:5146
+rtp://239.77.0.88:5146
 #EXTINF:-1 ,浙江卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.89:5146
+rtp://239.77.0.89:5146
 #EXTINF:-1 ,江苏卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.90:5146
+rtp://239.77.0.90:5146
 #EXTINF:-1 ,北京卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.91:5146
+rtp://239.77.0.91:5146
 #EXTINF:-1 ,深圳卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.92:5146
+rtp://239.77.0.92:5146
 #EXTINF:-1 ,黑龙江卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.93:5146
+rtp://239.77.0.93:5146
 #EXTINF:-1 ,山东卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.94:5146
+rtp://239.77.0.94:5146
 #EXTINF:-1 ,湖北卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.95:5146
+rtp://239.77.0.95:5146
 #EXTINF:-1 ,厦门卫视SD
-http://mail.beixiaoming.com:4000/udp/239.77.0.96:5146
+rtp://239.77.0.96:5146
 #EXTINF:-1 ,天津卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.97:5146
+rtp://239.77.0.97:5146
 #EXTINF:-1 ,东方卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.98:5146
+rtp://239.77.0.98:5146
 #EXTINF:-1 ,IPTV谍战剧场
-http://mail.beixiaoming.com:4000/udp/239.77.0.99:5146
+rtp://239.77.0.99:5146
 #EXTINF:-1 ,IPTV相声小品
-http://mail.beixiaoming.com:4000/udp/239.77.0.100:5146
+rtp://239.77.0.100:5146
 #EXTINF:-1 ,IPTV野外
-http://mail.beixiaoming.com:4000/udp/239.77.0.101:5146
+rtp://239.77.0.101:5146
 #EXTINF:-1 ,IPTV法治
-http://mail.beixiaoming.com:4000/udp/239.77.0.102:5146
+rtp://239.77.0.102:5146
 #EXTINF:-1 ,IPTV6+
-http://mail.beixiaoming.com:4000/udp/239.77.0.103:5146
+rtp://239.77.0.103:5146
 #EXTINF:-1 ,IPTV经典电影
-http://mail.beixiaoming.com:4000/udp/239.77.0.104:5146
+rtp://239.77.0.104:5146
 #EXTINF:-1 ,IPTV8+
-http://mail.beixiaoming.com:4000/udp/239.77.0.105:5146
+rtp://239.77.0.105:5146
 #EXTINF:-1 ,IPTV热播剧场
-http://mail.beixiaoming.com:4000/udp/239.77.0.106:5146
+rtp://239.77.0.106:5146
 #EXTINF:-1 ,IPTV3+
-http://mail.beixiaoming.com:4000/udp/239.77.0.107:5146
+rtp://239.77.0.107:5146
 #EXTINF:-1 ,IPTV5+
-http://mail.beixiaoming.com:4000/udp/239.77.0.108:5146
+rtp://239.77.0.108:5146
 #EXTINF:-1 ,IPTV少儿动画
-http://mail.beixiaoming.com:4000/udp/239.77.0.109:5146
+rtp://239.77.0.109:5146
 #EXTINF:-1 ,IPTV魅力时尚
-http://mail.beixiaoming.com:4000/udp/239.77.0.110:5146
+rtp://239.77.0.110:5146
 #EXTINF:-1 ,IPTV收视指南
-http://mail.beixiaoming.com:4000/udp/239.77.0.111:5146
+rtp://239.77.0.111:5146
 #EXTINF:-1 ,广东体育HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.112:5146
+rtp://239.77.0.112:5146
 #EXTINF:-1 ,财富天下SD
-http://mail.beixiaoming.com:4000/udp/239.77.0.113:5146
+rtp://239.77.0.113:5146
 #EXTINF:-1 ,广东珠江HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.114:5146
+rtp://239.77.0.114:5146
 #EXTINF:-1 ,CCTV-17
-http://mail.beixiaoming.com:4000/udp/239.77.0.115:5146
+rtp://239.77.0.115:5146
 #EXTINF:-1 ,韶关新闻综合
-http://mail.beixiaoming.com:4000/udp/239.77.0.116:5146
+rtp://239.77.0.116:5146
 #EXTINF:-1 ,韶关新闻综合HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.117:5146
+rtp://239.77.0.117:5146
 #EXTINF:-1 ,韶关绿色生活
-http://mail.beixiaoming.com:4000/udp/239.77.0.118:5146
+rtp://239.77.0.118:5146
 #EXTINF:-1 ,韶关绿色生活 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.119:5146
+rtp://239.77.0.119:5146
 #EXTINF:-1 ,湛江综合
-http://mail.beixiaoming.com:4000/udp/239.77.0.120:5146
+rtp://239.77.0.120:5146
 #EXTINF:-1 ,湛江公共
-http://mail.beixiaoming.com:4000/udp/239.77.0.121:5146
+rtp://239.77.0.121:5146
 #EXTINF:-1 ,辽宁卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.123:5146
+rtp://239.77.0.123:5146
 #EXTINF:-1 ,黑龙江卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.124:5146
+rtp://239.77.0.124:5146
 #EXTINF:-1 ,浙江卫视 HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.0.125:5146
+rtp://239.77.0.125:5146
 #EXTINF:-1 ,江苏卫视-HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.0.126:5146
+rtp://239.77.0.126:5146
 #EXTINF:-1 ,湖南卫视HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.127:5146
+rtp://239.77.0.127:5146
 #EXTINF:-1 ,湖北卫视HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.128:5146
+rtp://239.77.0.128:5146
 #EXTINF:-1 ,CCTV-1
-http://mail.beixiaoming.com:4000/udp/239.77.0.129:5146
+rtp://239.77.0.129:5146
 #EXTINF:-1 ,深圳卫视HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.130:5146
+rtp://239.77.0.130:5146
 #EXTINF:-1 ,天津 HDTV
-http://mail.beixiaoming.com:4000/udp/239.77.0.131:5146
+rtp://239.77.0.131:5146
 #EXTINF:-1 ,山东卫视-HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.0.132:5146
+rtp://239.77.0.132:5146
 #EXTINF:-1 ,CCTV-14 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.133:5146
+rtp://239.77.0.133:5146
 #EXTINF:-1 ,CCTV-10 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.134:5146
+rtp://239.77.0.134:5146
 #EXTINF:-1 ,CCTV-9 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.135:5146
+rtp://239.77.0.135:5146
 #EXTINF:-1 ,CCTV-12 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.136:5146
+rtp://239.77.0.136:5146
 #EXTINF:-1 ,CCTV-2 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.137:5146
+rtp://239.77.0.137:5146
 #EXTINF:-1 ,CCTV-7 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.138:5146
+rtp://239.77.0.138:5146
 #EXTINF:-1 ,广西卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.139:5146
+rtp://239.77.0.139:5146
 #EXTINF:-1 ,湛江公共高清
-http://mail.beixiaoming.com:4000/udp/239.77.0.140:5146
+rtp://239.77.0.140:5146
 #EXTINF:-1 ,湛江综合高清
-http://mail.beixiaoming.com:4000/udp/239.77.0.141:5146
+rtp://239.77.0.141:5146
 #EXTINF:-1 ,快乐垂钓 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.145:5146
+rtp://239.77.0.145:5146
 #EXTINF:-1 ,东南卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.146:5146
+rtp://239.77.0.146:5146
 #EXTINF:-1 ,上海纪实 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.147:5146
+rtp://239.77.0.147:5146
 #EXTINF:-1 ,河北卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.148:5146
+rtp://239.77.0.148:5146
 #EXTINF:-1 ,江西卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.149:5146
+rtp://239.77.0.149:5146
 #EXTINF:-1 ,吉林卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.150:5146
+rtp://239.77.0.150:5146
 #EXTINF:-1 ,三沙卫视
-http://mail.beixiaoming.com:4000/udp/239.77.0.152:5146
+rtp://239.77.0.152:5146
 #EXTINF:-1 ,求索生活 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.153:5146
+rtp://239.77.0.153:5146
 #EXTINF:-1 ,珠海-2 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.154:5146
+rtp://239.77.0.154:5146
 #EXTINF:-1 ,珠海-1 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.155:5146
+rtp://239.77.0.155:5146
 #EXTINF:-1 ,揭阳综合
-http://mail.beixiaoming.com:4000/udp/239.77.0.157:5146
+rtp://239.77.0.157:5146
 #EXTINF:-1 ,揭阳生活
-http://mail.beixiaoming.com:4000/udp/239.77.0.158:5146
+rtp://239.77.0.158:5146
 #EXTINF:-1 ,四川HHDTV
-http://mail.beixiaoming.com:4000/udp/239.77.0.159:5146
+rtp://239.77.0.159:5146
 #EXTINF:-1 ,金鹰纪实 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.160:5146
+rtp://239.77.0.160:5146
 #EXTINF:-1 ,辽宁卫视-HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.0.161:5146
+rtp://239.77.0.161:5146
 #EXTINF:-1 ,湖南纪实HDTV（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.0.162:5146
+rtp://239.77.0.162:5146
 #EXTINF:-1 ,四川卫视 HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.0.163:5146
+rtp://239.77.0.163:5146
 #EXTINF:-1 ,金鹰卡通 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.164:5146
+rtp://239.77.0.164:5146
 #EXTINF:-1 ,CCTV-16 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.165:5146
+rtp://239.77.0.165:5146
 #EXTINF:-1 ,广东卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.166:5146
+rtp://239.77.0.166:5146
 #EXTINF:-1 ,经济科教 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.167:5146
+rtp://239.77.0.167:5146
 #EXTINF:-1 ,广东体育 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.168:5146
+rtp://239.77.0.168:5146
 #EXTINF:-1 ,CCTV-3 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.169:5146
+rtp://239.77.0.169:5146
 #EXTINF:-1 ,CCTV-5 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.170:5146
+rtp://239.77.0.170:5146
 #EXTINF:-1 ,CCTV-6 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.171:5146
+rtp://239.77.0.171:5146
 #EXTINF:-1 ,CCTV-8 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.172:5146
+rtp://239.77.0.172:5146
 #EXTINF:-1 ,广东新闻 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.173:5146
+rtp://239.77.0.173:5146
 #EXTINF:-1 ,信号源加载中
-http://mail.beixiaoming.com:4000/udp/239.77.0.174:5146
+rtp://239.77.0.174:5146
 #EXTINF:-1 ,CCTV3-HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.0.175:5146
+rtp://239.77.0.175:5146
 #EXTINF:-1 ,IPTV5+ HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.176:5146
+rtp://239.77.0.176:5146
 #EXTINF:-1 ,CCTV5-HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.0.177:5146
+rtp://239.77.0.177:5146
 #EXTINF:-1 ,CCTV6-HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.0.178:5146
+rtp://239.77.0.178:5146
 #EXTINF:-1 ,嘉佳卡通 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.179:5146
+rtp://239.77.0.179:5146
 #EXTINF:-1 ,CETV早期教育 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.180:5146
+rtp://239.77.0.180:5146
 #EXTINF:-1 ,CCTV8-HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.0.181:5146
+rtp://239.77.0.181:5146
 #EXTINF:-1 ,重庆卫视HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.182:5146
+rtp://239.77.0.182:5146
 #EXTINF:-1 ,安徽卫视HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.183:5146
+rtp://239.77.0.183:5146
 #EXTINF:-1 ,版权问题无法播放
-http://mail.beixiaoming.com:4000/udp/239.77.0.185:5146
+rtp://239.77.0.185:5146
 #EXTINF:-1 ,广东IPTV广告
-http://mail.beixiaoming.com:4000/udp/239.77.0.186:5146
+rtp://239.77.0.186:5146
 #EXTINF:-1 ,汕尾文化生活 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.187:5146
+rtp://239.77.0.187:5146
 #EXTINF:-1 ,CCTV-13 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.188:5146
+rtp://239.77.0.188:5146
 #EXTINF:-1 ,甘肃卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.189:5146
+rtp://239.77.0.189:5146
 #EXTINF:-1 ,信号源加载中
-http://mail.beixiaoming.com:4000/udp/239.77.0.194:5146
+rtp://239.77.0.194:5146
 #EXTINF:-1 ,江门综合
-http://mail.beixiaoming.com:4000/udp/239.77.0.195:5146
+rtp://239.77.0.195:5146
 #EXTINF:-1 ,江门侨乡生活
-http://mail.beixiaoming.com:4000/udp/239.77.0.196:5146
+rtp://239.77.0.196:5146
 #EXTINF:-1 ,CCTV-17 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.198:5146
+rtp://239.77.0.198:5146
 #EXTINF:-1 ,CGTN HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.199:5146
+rtp://239.77.0.199:5146
 #EXTINF:-1 ,CETV1HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.200:5146
+rtp://239.77.0.200:5146
 #EXTINF:-1 ,江门综合 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.201:5146
+rtp://239.77.0.201:5146
 #EXTINF:-1 ,江门侨乡生活 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.202:5146
+rtp://239.77.0.202:5146
 #EXTINF:-1 ,茂名综合
-http://mail.beixiaoming.com:4000/udp/239.77.0.204:5146
+rtp://239.77.0.204:5146
 #EXTINF:-1 ,茂名公共
-http://mail.beixiaoming.com:4000/udp/239.77.0.205:5146
+rtp://239.77.0.205:5146
 #EXTINF:-1 ,茂名综合 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.206:5146
+rtp://239.77.0.206:5146
 #EXTINF:-1 ,茂名公共 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.207:5146
+rtp://239.77.0.207:5146
 #EXTINF:-1 ,CCTV-16 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.208:5146
+rtp://239.77.0.208:5146
 #EXTINF:-1 ,汽摩
-http://mail.beixiaoming.com:4000/udp/239.77.0.209:5146
+rtp://239.77.0.209:5146
 #EXTINF:-1 ,广东IPTV广告
-http://mail.beixiaoming.com:4000/udp/239.77.0.211:5146
+rtp://239.77.0.211:5146
 #EXTINF:-1 ,靓妆
-http://mail.beixiaoming.com:4000/udp/239.77.0.212:5146
+rtp://239.77.0.212:5146
 #EXTINF:-1 ,南方卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.215:5146
+rtp://239.77.0.215:5146
 #EXTINF:-1 ,广东影视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.217:5146
+rtp://239.77.0.217:5146
 #EXTINF:-1 ,CCTV-16 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.218:5146
+rtp://239.77.0.218:5146
 #EXTINF:-1 ,老故事
-http://mail.beixiaoming.com:4000/udp/239.77.0.220:5146
+rtp://239.77.0.220:5146
 #EXTINF:-1 ,CGTN西班牙语 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.221:5146
+rtp://239.77.0.221:5146
 #EXTINF:-1 ,优漫卡通
-http://mail.beixiaoming.com:4000/udp/239.77.0.222:5146
+rtp://239.77.0.222:5146
 #EXTINF:-1 ,广东公共 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.225:5146
+rtp://239.77.0.225:5146
 #EXTINF:-1 ,国学频道
-http://mail.beixiaoming.com:4000/udp/239.77.0.226:5146
+rtp://239.77.0.226:5146
 #EXTINF:-1 ,CGTN法语 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.228:5146
+rtp://239.77.0.228:5146
 #EXTINF:-1 ,揭阳综合 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.229:5146
+rtp://239.77.0.229:5146
 #EXTINF:-1 ,贵州卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.230:5146
+rtp://239.77.0.230:5146
 #EXTINF:-1 ,广东IPTV广告
-http://mail.beixiaoming.com:4000/udp/239.77.0.232:5146
+rtp://239.77.0.232:5146
 #EXTINF:-1 ,广东IPTV广告
-http://mail.beixiaoming.com:4000/udp/239.77.0.233:5146
+rtp://239.77.0.233:5146
 #EXTINF:-1 ,揭阳综合
-http://mail.beixiaoming.com:4000/udp/239.77.0.240:5146
+rtp://239.77.0.240:5146
 #EXTINF:-1 ,清远文旅生活
-http://mail.beixiaoming.com:4000/udp/239.77.0.241:5146
+rtp://239.77.0.241:5146
 #EXTINF:-1 ,广东综艺 4K
-http://mail.beixiaoming.com:4000/udp/239.77.0.244:5146
+rtp://239.77.0.244:5146
 #EXTINF:-1 ,广东综艺 4K
-http://mail.beixiaoming.com:4000/udp/239.77.0.245:5146
+rtp://239.77.0.245:5146
 #EXTINF:-1 ,广东综艺 4K
-http://mail.beixiaoming.com:4000/udp/239.77.0.246:5146
+rtp://239.77.0.246:5146
 #EXTINF:-1 ,惠州综合A
-http://mail.beixiaoming.com:4000/udp/239.77.0.247:5146
+rtp://239.77.0.247:5146
 #EXTINF:-1 ,惠州公共A
-http://mail.beixiaoming.com:4000/udp/239.77.0.248:5146
+rtp://239.77.0.248:5146
 #EXTINF:-1 ,广东少儿 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.250:5146
+rtp://239.77.0.250:5146
 #EXTINF:-1 ,揭阳生活 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.251:5146
+rtp://239.77.0.251:5146
 #EXTINF:-1 ,广东综艺（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.0.252:5146
+rtp://239.77.0.252:5146
 #EXTINF:-1 ,云浮综合 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.253:5146
+rtp://239.77.0.253:5146
 #EXTINF:-1 ,云浮文旅 HD
-http://mail.beixiaoming.com:4000/udp/239.77.0.254:5146
+rtp://239.77.0.254:5146
 #EXTINF:-1 ,东南卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.1:5146
+rtp://239.77.1.1:5146
 #EXTINF:-1 ,广东卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.2:5146
+rtp://239.77.1.2:5146
 #EXTINF:-1 ,深圳卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.3:5146
+rtp://239.77.1.3:5146
 #EXTINF:-1 ,北京卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.4:5146
+rtp://239.77.1.4:5146
 #EXTINF:-1 ,湖南卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.5:5146
+rtp://239.77.1.5:5146
 #EXTINF:-1 ,黑龙江卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.6:5146
+rtp://239.77.1.6:5146
 #EXTINF:-1 ,深圳电视剧频道
-http://mail.beixiaoming.com:4000/udp/239.77.1.7:5146
+rtp://239.77.1.7:5146
 #EXTINF:-1 ,深圳体育健康
-http://mail.beixiaoming.com:4000/udp/239.77.1.8:5146
+rtp://239.77.1.8:5146
 #EXTINF:-1 ,深圳公共频道
-http://mail.beixiaoming.com:4000/udp/239.77.1.9:5146
+rtp://239.77.1.9:5146
 #EXTINF:-1 ,CCTV-12
-http://mail.beixiaoming.com:4000/udp/239.77.1.10:5146
+rtp://239.77.1.10:5146
 #EXTINF:-1 ,CCTV-15
-http://mail.beixiaoming.com:4000/udp/239.77.1.11:5146
+rtp://239.77.1.11:5146
 #EXTINF:-1 ,南方卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.12:5146
+rtp://239.77.1.12:5146
 #EXTINF:-1 ,安徽卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.13:5146
+rtp://239.77.1.13:5146
 #EXTINF:-1 ,北京卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.14:5146
+rtp://239.77.1.14:5146
 #EXTINF:-1 ,嘉佳卡通
-http://mail.beixiaoming.com:4000/udp/239.77.1.15:5146
+rtp://239.77.1.15:5146
 #EXTINF:-1 ,重庆卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.16:5146
+rtp://239.77.1.16:5146
 #EXTINF:-1 ,CCTV-1 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.17:5146
+rtp://239.77.1.17:5146
 #EXTINF:-1 ,江苏卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.18:5146
+rtp://239.77.1.18:5146
 #EXTINF:-1 ,广东卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.19:5146
+rtp://239.77.1.19:5146
 #EXTINF:-1 ,CCTV-1
-http://mail.beixiaoming.com:4000/udp/239.77.1.20:5146
+rtp://239.77.1.20:5146
 #EXTINF:-1 ,深圳卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.21:5146
+rtp://239.77.1.21:5146
 #EXTINF:-1 ,深圳财经生活
-http://mail.beixiaoming.com:4000/udp/239.77.1.22:5146
+rtp://239.77.1.22:5146
 #EXTINF:-1 ,CCTV-7
-http://mail.beixiaoming.com:4000/udp/239.77.1.24:5146
+rtp://239.77.1.24:5146
 #EXTINF:-1 ,CCTV-10
-http://mail.beixiaoming.com:4000/udp/239.77.1.25:5146
+rtp://239.77.1.25:5146
 #EXTINF:-1 ,CCTV-13
-http://mail.beixiaoming.com:4000/udp/239.77.1.26:5146
+rtp://239.77.1.26:5146
 #EXTINF:-1 ,CGTN
-http://mail.beixiaoming.com:4000/udp/239.77.1.27:5146
+rtp://239.77.1.27:5146
 #EXTINF:-1 ,CCTV-2
-http://mail.beixiaoming.com:4000/udp/239.77.1.28:5146
+rtp://239.77.1.28:5146
 #EXTINF:-1 ,湖南卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.29:5146
+rtp://239.77.1.29:5146
 #EXTINF:-1 ,四川卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.30:5146
+rtp://239.77.1.30:5146
 #EXTINF:-1 ,CCTV-5+ HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.31:5146
+rtp://239.77.1.31:5146
 #EXTINF:-1 ,浙江卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.32:5146
+rtp://239.77.1.32:5146
 #EXTINF:-1 ,浙江卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.33:5146
+rtp://239.77.1.33:5146
 #EXTINF:-1 ,深圳都市频道
-http://mail.beixiaoming.com:4000/udp/239.77.1.34:5146
+rtp://239.77.1.34:5146
 #EXTINF:-1 ,山东教育
-http://mail.beixiaoming.com:4000/udp/239.77.1.35:5146
+rtp://239.77.1.35:5146
 #EXTINF:-1 ,深圳娱乐频道
-http://mail.beixiaoming.com:4000/udp/239.77.1.36:5146
+rtp://239.77.1.36:5146
 #EXTINF:-1 ,天津卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.37:5146
+rtp://239.77.1.37:5146
 #EXTINF:-1 ,深圳少儿频道
-http://mail.beixiaoming.com:4000/udp/239.77.1.38:5146
+rtp://239.77.1.38:5146
 #EXTINF:-1 ,深圳宜和购物
-http://mail.beixiaoming.com:4000/udp/239.77.1.39:5146
+rtp://239.77.1.39:5146
 #EXTINF:-1 ,江苏卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.40:5146
+rtp://239.77.1.40:5146
 #EXTINF:-1 ,CCTV-4
-http://mail.beixiaoming.com:4000/udp/239.77.1.41:5146
+rtp://239.77.1.41:5146
 #EXTINF:-1 ,CCTV-11
-http://mail.beixiaoming.com:4000/udp/239.77.1.42:5146
+rtp://239.77.1.42:5146
 #EXTINF:-1 ,CCTV-14
-http://mail.beixiaoming.com:4000/udp/239.77.1.43:5146
+rtp://239.77.1.43:5146
 #EXTINF:-1 ,湖北卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.44:5146
+rtp://239.77.1.44:5146
 #EXTINF:-1 ,吉林卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.45:5146
+rtp://239.77.1.45:5146
 #EXTINF:-1 ,CETV-1标清
-http://mail.beixiaoming.com:4000/udp/239.77.1.46:5146
+rtp://239.77.1.46:5146
 #EXTINF:-1 ,宁夏卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.47:5146
+rtp://239.77.1.47:5146
 #EXTINF:-1 ,东方卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.48:5146
+rtp://239.77.1.48:5146
 #EXTINF:-1 ,西藏卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.49:5146
+rtp://239.77.1.49:5146
 #EXTINF:-1 ,卡酷少儿
-http://mail.beixiaoming.com:4000/udp/239.77.1.50:5146
+rtp://239.77.1.50:5146
 #EXTINF:-1 ,海南卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.51:5146
+rtp://239.77.1.51:5146
 #EXTINF:-1 ,金鹰卡通
-http://mail.beixiaoming.com:4000/udp/239.77.1.52:5146
+rtp://239.77.1.52:5146
 #EXTINF:-1 ,新疆卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.53:5146
+rtp://239.77.1.53:5146
 #EXTINF:-1 ,陕西卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.54:5146
+rtp://239.77.1.54:5146
 #EXTINF:-1 ,内蒙古卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.55:5146
+rtp://239.77.1.55:5146
 #EXTINF:-1 ,IPTV4
-http://mail.beixiaoming.com:4000/udp/239.77.1.56:5146
+rtp://239.77.1.56:5146
 #EXTINF:-1 ,甘肃卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.57:5146
+rtp://239.77.1.57:5146
 #EXTINF:-1 ,河南卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.58:5146
+rtp://239.77.1.58:5146
 #EXTINF:-1 ,广西卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.59:5146
+rtp://239.77.1.59:5146
 #EXTINF:-1 ,河北卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.60:5146
+rtp://239.77.1.60:5146
 #EXTINF:-1 ,贵州卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.61:5146
+rtp://239.77.1.61:5146
 #EXTINF:-1 ,辽宁卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.62:5146
+rtp://239.77.1.62:5146
 #EXTINF:-1 ,IPTV2
-http://mail.beixiaoming.com:4000/udp/239.77.1.63:5146
+rtp://239.77.1.63:5146
 #EXTINF:-1 ,IPTV3
-http://mail.beixiaoming.com:4000/udp/239.77.1.64:5146
+rtp://239.77.1.64:5146
 #EXTINF:-1 ,CCTV-9
-http://mail.beixiaoming.com:4000/udp/239.77.1.65:5146
+rtp://239.77.1.65:5146
 #EXTINF:-1 ,山东卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.66:5146
+rtp://239.77.1.66:5146
 #EXTINF:-1 ,宝安频道 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.67:5146
+rtp://239.77.1.67:5146
 #EXTINF:-1 ,CETV-4
-http://mail.beixiaoming.com:4000/udp/239.77.1.68:5146
+rtp://239.77.1.68:5146
 #EXTINF:-1 ,CETV-2
-http://mail.beixiaoming.com:4000/udp/239.77.1.69:5146
+rtp://239.77.1.69:5146
 #EXTINF:-1 ,青海卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.70:5146
+rtp://239.77.1.70:5146
 #EXTINF:-1 ,黑龙江卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.71:5146
+rtp://239.77.1.71:5146
 #EXTINF:-1 ,云南卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.72:5146
+rtp://239.77.1.72:5146
 #EXTINF:-1 ,江西卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.73:5146
+rtp://239.77.1.73:5146
 #EXTINF:-1 ,山西卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.74:5146
+rtp://239.77.1.74:5146
 #EXTINF:-1 ,IPTV1
-http://mail.beixiaoming.com:4000/udp/239.77.1.75:5146
+rtp://239.77.1.75:5146
 #EXTINF:-1 ,CCTV-16 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.76:5146
+rtp://239.77.1.76:5146
 #EXTINF:-1 ,IPTV5+
-http://mail.beixiaoming.com:4000/udp/239.77.1.77:5146
+rtp://239.77.1.77:5146
 #EXTINF:-1 ,IPTV3+
-http://mail.beixiaoming.com:4000/udp/239.77.1.78:5146
+rtp://239.77.1.78:5146
 #EXTINF:-1 ,优漫卡通
-http://mail.beixiaoming.com:4000/udp/239.77.1.79:5146
+rtp://239.77.1.79:5146
 #EXTINF:-1 ,兵团卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.80:5146
+rtp://239.77.1.80:5146
 #EXTINF:-1 ,财富天下
-http://mail.beixiaoming.com:4000/udp/239.77.1.81:5146
+rtp://239.77.1.81:5146
 #EXTINF:-1 ,IPTV8+
-http://mail.beixiaoming.com:4000/udp/239.77.1.82:5146
+rtp://239.77.1.82:5146
 #EXTINF:-1 ,IPTV谍战剧场
-http://mail.beixiaoming.com:4000/udp/239.77.1.83:5146
+rtp://239.77.1.83:5146
 #EXTINF:-1 ,IPTV相声小品
-http://mail.beixiaoming.com:4000/udp/239.77.1.84:5146
+rtp://239.77.1.84:5146
 #EXTINF:-1 ,IPTV野外
-http://mail.beixiaoming.com:4000/udp/239.77.1.85:5146
+rtp://239.77.1.85:5146
 #EXTINF:-1 ,IPTV法治
-http://mail.beixiaoming.com:4000/udp/239.77.1.86:5146
+rtp://239.77.1.86:5146
 #EXTINF:-1 ,深圳宜和购物 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.87:5146
+rtp://239.77.1.87:5146
 #EXTINF:-1 ,IPTV魅力时尚
-http://mail.beixiaoming.com:4000/udp/239.77.1.88:5146
+rtp://239.77.1.88:5146
 #EXTINF:-1 ,IPTV经典电影
-http://mail.beixiaoming.com:4000/udp/239.77.1.89:5146
+rtp://239.77.1.89:5146
 #EXTINF:-1 ,IPTV热播剧场
-http://mail.beixiaoming.com:4000/udp/239.77.1.90:5146
+rtp://239.77.1.90:5146
 #EXTINF:-1 ,IPTV少儿动画
-http://mail.beixiaoming.com:4000/udp/239.77.1.91:5146
+rtp://239.77.1.91:5146
 #EXTINF:-1 ,安徽卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.92:5146
+rtp://239.77.1.92:5146
 #EXTINF:-1 ,湖北卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.93:5146
+rtp://239.77.1.93:5146
 #EXTINF:-1 ,广东珠江
-http://mail.beixiaoming.com:4000/udp/239.77.1.94:5146
+rtp://239.77.1.94:5146
 #EXTINF:-1 ,广东体育
-http://mail.beixiaoming.com:4000/udp/239.77.1.97:5146
+rtp://239.77.1.97:5146
 #EXTINF:-1 ,CCTV-16 4K
-http://mail.beixiaoming.com:4000/udp/239.77.1.98:5146
+rtp://239.77.1.98:5146
 #EXTINF:-1 ,延边卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.99:5146
+rtp://239.77.1.99:5146
 #EXTINF:-1 ,梨园频道 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.100:5146
+rtp://239.77.1.100:5146
 #EXTINF:-1 ,辽宁卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.103:5146
+rtp://239.77.1.103:5146
 #EXTINF:-1 ,东南卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.104:5146
+rtp://239.77.1.104:5146
 #EXTINF:-1 ,国学频道
-http://mail.beixiaoming.com:4000/udp/239.77.1.105:5146
+rtp://239.77.1.105:5146
 #EXTINF:-1 ,四屏同播
-http://mail.beixiaoming.com:4000/udp/239.77.1.107:5146
+rtp://239.77.1.107:5146
 #EXTINF:-1 ,武术世界 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.108:5146
+rtp://239.77.1.108:5146
 #EXTINF:-1 ,CCTV-12 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.109:5146
+rtp://239.77.1.109:5146
 #EXTINF:-1 ,信号传输故障
-http://mail.beixiaoming.com:4000/udp/239.77.1.110:5146
+rtp://239.77.1.110:5146
 #EXTINF:-1 ,吉林卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.111:5146
+rtp://239.77.1.111:5146
 #EXTINF:-1 ,发现之旅
-http://mail.beixiaoming.com:4000/udp/239.77.1.112:5146
+rtp://239.77.1.112:5146
 #EXTINF:-1 ,CCTV-10 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.113:5146
+rtp://239.77.1.113:5146
 #EXTINF:-1 ,书画
-http://mail.beixiaoming.com:4000/udp/239.77.1.115:5146
+rtp://239.77.1.115:5146
 #EXTINF:-1 ,IPTV5+ HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.116:5146
+rtp://239.77.1.116:5146
 #EXTINF:-1 ,三沙卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.117:5146
+rtp://239.77.1.117:5146
 #EXTINF:-1 ,靓妆
-http://mail.beixiaoming.com:4000/udp/239.77.1.118:5146
+rtp://239.77.1.118:5146
 #EXTINF:-1 ,快乐垂钓 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.119:5146
+rtp://239.77.1.119:5146
 #EXTINF:-1 ,文物宝库 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.120:5146
+rtp://239.77.1.120:5146
 #EXTINF:-1 ,CCTV-17 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.121:5146
+rtp://239.77.1.121:5146
 #EXTINF:-1 ,CCTV-17
-http://mail.beixiaoming.com:4000/udp/239.77.1.123:5146
+rtp://239.77.1.123:5146
 #EXTINF:-1 ,深圳都市频道 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.124:5146
+rtp://239.77.1.124:5146
 #EXTINF:-1 ,深圳电视剧频道 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.125:5146
+rtp://239.77.1.125:5146
 #EXTINF:-1 ,深圳公共频道 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.126:5146
+rtp://239.77.1.126:5146
 #EXTINF:-1 ,深圳体育健康 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.128:5146
+rtp://239.77.1.128:5146
 #EXTINF:-1 ,湖南卫视 HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.1.129:5146
+rtp://239.77.1.129:5146
 #EXTINF:-1 ,汕头综合 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.130:5146
+rtp://239.77.1.130:5146
 #EXTINF:-1 ,汕头经济生活 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.131:5146
+rtp://239.77.1.131:5146
 #EXTINF:-1 ,汕头文旅体育 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.132:5146
+rtp://239.77.1.132:5146
 #EXTINF:-1 ,证券服务
-http://mail.beixiaoming.com:4000/udp/239.77.1.135:5146
+rtp://239.77.1.135:5146
 #EXTINF:-1 ,新动漫
-http://mail.beixiaoming.com:4000/udp/239.77.1.136:5146
+rtp://239.77.1.136:5146
 #EXTINF:-1 ,四海钓鱼
-http://mail.beixiaoming.com:4000/udp/239.77.1.137:5146
+rtp://239.77.1.137:5146
 #EXTINF:-1 ,IPTV6+
-http://mail.beixiaoming.com:4000/udp/239.77.1.138:5146
+rtp://239.77.1.138:5146
 #EXTINF:-1 ,哈哈炫动
-http://mail.beixiaoming.com:4000/udp/239.77.1.139:5146
+rtp://239.77.1.139:5146
 #EXTINF:-1 ,深圳体育健康 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.140:5146
+rtp://239.77.1.140:5146
 #EXTINF:-1 ,天津卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.141:5146
+rtp://239.77.1.141:5146
 #EXTINF:-1 ,山东卫视-HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.142:5146
+rtp://239.77.1.142:5146
 #EXTINF:-1 ,中国天气
-http://mail.beixiaoming.com:4000/udp/239.77.1.143:5146
+rtp://239.77.1.143:5146
 #EXTINF:-1 ,CCTV-1 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.144:5146
+rtp://239.77.1.144:5146
 #EXTINF:-1 ,CCTV-5+
-http://mail.beixiaoming.com:4000/udp/239.77.1.146:5146
+rtp://239.77.1.146:5146
 #EXTINF:-1 ,信号传输故障（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.1.147:5146
+rtp://239.77.1.147:5146
 #EXTINF:-1 ,深圳卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.148:5146
+rtp://239.77.1.148:5146
 #EXTINF:-1 ,江苏卫视 HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.1.149:5146
+rtp://239.77.1.149:5146
 #EXTINF:-1 ,浙江卫视 HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.1.150:5146
+rtp://239.77.1.150:5146
 #EXTINF:-1 ,北京卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.151:5146
+rtp://239.77.1.151:5146
 #EXTINF:-1 ,广东卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.152:5146
+rtp://239.77.1.152:5146
 #EXTINF:-1 ,山东卫视-HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.1.153:5146
+rtp://239.77.1.153:5146
 #EXTINF:-1 ,惠州TV-1
-http://mail.beixiaoming.com:4000/udp/239.77.1.154:5146
+rtp://239.77.1.154:5146
 #EXTINF:-1 ,信号传输故障
-http://mail.beixiaoming.com:4000/udp/239.77.1.155:5146
+rtp://239.77.1.155:5146
 #EXTINF:-1 ,东方卫视 HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.1.156:5146
+rtp://239.77.1.156:5146
 #EXTINF:-1 ,安徽卫视 HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.1.157:5146
+rtp://239.77.1.157:5146
 #EXTINF:-1 ,CCTV-2 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.158:5146
+rtp://239.77.1.158:5146
 #EXTINF:-1 ,CCTV7-HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.159:5146
+rtp://239.77.1.159:5146
 #EXTINF:-1 ,CCTV-9 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.160:5146
+rtp://239.77.1.160:5146
 #EXTINF:-1 ,CCTV-14 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.161:5146
+rtp://239.77.1.161:5146
 #EXTINF:-1 ,重庆卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.162:5146
+rtp://239.77.1.162:5146
 #EXTINF:-1 ,CCTV-4 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.163:5146
+rtp://239.77.1.163:5146
 #EXTINF:-1 ,CCTV-4 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.166:5146
+rtp://239.77.1.166:5146
 #EXTINF:-1 ,CCTV-7 HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.1.167:5146
+rtp://239.77.1.167:5146
 #EXTINF:-1 ,CCTV-9 HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.1.168:5146
+rtp://239.77.1.168:5146
 #EXTINF:-1 ,CCTV-10 HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.1.169:5146
+rtp://239.77.1.169:5146
 #EXTINF:-1 ,CCTV-12 HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.1.170:5146
+rtp://239.77.1.170:5146
 #EXTINF:-1 ,CCTV-14 HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.1.171:5146
+rtp://239.77.1.171:5146
 #EXTINF:-1 ,惠州TV-2
-http://mail.beixiaoming.com:4000/udp/239.77.1.173:5146
+rtp://239.77.1.173:5146
 #EXTINF:-1 ,湖北卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.174:5146
+rtp://239.77.1.174:5146
 #EXTINF:-1 ,深圳移动电视
-http://mail.beixiaoming.com:4000/udp/239.77.1.175:5146
+rtp://239.77.1.175:5146
 #EXTINF:-1 ,深圳都市频道 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.176:5146
+rtp://239.77.1.176:5146
 #EXTINF:-1 ,深圳电视剧频道 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.177:5146
+rtp://239.77.1.177:5146
 #EXTINF:-1 ,深圳公共频道 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.178:5146
+rtp://239.77.1.178:5146
 #EXTINF:-1 ,黑龙江卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.179:5146
+rtp://239.77.1.179:5146
 #EXTINF:-1 ,天津卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.182:5146
+rtp://239.77.1.182:5146
 #EXTINF:-1 ,广东IPTV广告
-http://mail.beixiaoming.com:4000/udp/239.77.1.183:5146
+rtp://239.77.1.183:5146
 #EXTINF:-1 ,广东IPTV广告
-http://mail.beixiaoming.com:4000/udp/239.77.1.184:5146
+rtp://239.77.1.184:5146
 #EXTINF:-1 ,汕尾新闻综合
-http://mail.beixiaoming.com:4000/udp/239.77.1.189:5146
+rtp://239.77.1.189:5146
 #EXTINF:-1 ,汕尾文化生活
-http://mail.beixiaoming.com:4000/udp/239.77.1.190:5146
+rtp://239.77.1.190:5146
 #EXTINF:-1 ,优优宝贝
-http://mail.beixiaoming.com:4000/udp/239.77.1.193:5146
+rtp://239.77.1.193:5146
 #EXTINF:-1 ,中学生
-http://mail.beixiaoming.com:4000/udp/239.77.1.195:5146
+rtp://239.77.1.195:5146
 #EXTINF:-1 ,老故事
-http://mail.beixiaoming.com:4000/udp/239.77.1.197:5146
+rtp://239.77.1.197:5146
 #EXTINF:-1 ,环球奇观
-http://mail.beixiaoming.com:4000/udp/239.77.1.198:5146
+rtp://239.77.1.198:5146
 #EXTINF:-1 ,中华美食 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.200:5146
+rtp://239.77.1.200:5146
 #EXTINF:-1 ,生态环境
-http://mail.beixiaoming.com:4000/udp/239.77.1.201:5146
+rtp://239.77.1.201:5146
 #EXTINF:-1 ,环球旅游
-http://mail.beixiaoming.com:4000/udp/239.77.1.202:5146
+rtp://239.77.1.202:5146
 #EXTINF:-1 ,车迷
-http://mail.beixiaoming.com:4000/udp/239.77.1.203:5146
+rtp://239.77.1.203:5146
 #EXTINF:-1 ,中华特产
-http://mail.beixiaoming.com:4000/udp/239.77.1.204:5146
+rtp://239.77.1.204:5146
 #EXTINF:-1 ,汽摩
-http://mail.beixiaoming.com:4000/udp/239.77.1.205:5146
+rtp://239.77.1.205:5146
 #EXTINF:-1 ,深圳宝安频道（音频）
-http://mail.beixiaoming.com:4000/udp/239.77.1.206:5146
+rtp://239.77.1.206:5146
 #EXTINF:-1 ,茶频道 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.207:5146
+rtp://239.77.1.207:5146
 #EXTINF:-1 ,先锋乒羽
-http://mail.beixiaoming.com:4000/udp/239.77.1.208:5146
+rtp://239.77.1.208:5146
 #EXTINF:-1 ,重庆卫视 HD（AVS）
-http://mail.beixiaoming.com:4000/udp/239.77.1.210:5146
+rtp://239.77.1.210:5146
 #EXTINF:-1 ,东南卫视
-http://mail.beixiaoming.com:4000/udp/239.77.1.213:5146
+rtp://239.77.1.213:5146
 #EXTINF:-1 ,河北卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.214:5146
+rtp://239.77.1.214:5146
 #EXTINF:-1 ,四川卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.215:5146
+rtp://239.77.1.215:5146
 #EXTINF:-1 ,上海纪实 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.216:5146
+rtp://239.77.1.216:5146
 #EXTINF:-1 ,金鹰纪实 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.217:5146
+rtp://239.77.1.217:5146
 #EXTINF:-1 ,东方卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.218:5146
+rtp://239.77.1.218:5146
 #EXTINF:-1 ,江西卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.219:5146
+rtp://239.77.1.219:5146
 #EXTINF:-1 ,贵州卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.221:5146
+rtp://239.77.1.221:5146
 #EXTINF:-1 ,CETV-1 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.222:5146
+rtp://239.77.1.222:5146
 #EXTINF:-1 ,深圳龙岗频道 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.223:5146
+rtp://239.77.1.223:5146
 #EXTINF:-1 ,信号传输故障
-http://mail.beixiaoming.com:4000/udp/239.77.1.224:5146
+rtp://239.77.1.224:5146
 #EXTINF:-1 ,深圳宝安第一课
-http://mail.beixiaoming.com:4000/udp/239.77.1.225:5146
+rtp://239.77.1.225:5146
 #EXTINF:-1 ,河南卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.229:5146
+rtp://239.77.1.229:5146
 #EXTINF:-1 ,珠海-1
-http://mail.beixiaoming.com:4000/udp/239.77.1.230:5146
+rtp://239.77.1.230:5146
 #EXTINF:-1 ,珠海-2
-http://mail.beixiaoming.com:4000/udp/239.77.1.231:5146
+rtp://239.77.1.231:5146
 #EXTINF:-1 ,惠州TV-1 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.232:5146
+rtp://239.77.1.232:5146
 #EXTINF:-1 ,惠州TV-2 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.233:5146
+rtp://239.77.1.233:5146
 #EXTINF:-1 ,九屏同播
-http://mail.beixiaoming.com:4000/udp/239.77.1.234:5146
+rtp://239.77.1.234:5146
 #EXTINF:-1 ,广东综艺 4K
-http://mail.beixiaoming.com:4000/udp/239.77.1.236:5146
+rtp://239.77.1.236:5146
 #EXTINF:-1 ,广东综艺 4K
-http://mail.beixiaoming.com:4000/udp/239.77.1.237:5146
+rtp://239.77.1.237:5146
 #EXTINF:-1 ,CCTV-11 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.238:5146
+rtp://239.77.1.238:5146
 #EXTINF:-1 ,CCTV-15 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.239:5146
+rtp://239.77.1.239:5146
 #EXTINF:-1 ,深圳财经生活 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.242:5146
+rtp://239.77.1.242:5146
 #EXTINF:-1 ,深圳娱乐频道 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.243:5146
+rtp://239.77.1.243:5146
 #EXTINF:-1 ,深圳少儿频道 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.244:5146
+rtp://239.77.1.244:5146
 #EXTINF:-1 ,深圳众创TV HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.247:5146
+rtp://239.77.1.247:5146
 #EXTINF:-1 ,中国交通广东 HD
-http://mail.beixiaoming.com:4000/udp/239.77.1.249:5146
+rtp://239.77.1.249:5146
 #EXTINF:-1 ,肇庆综合 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.1:5146
+rtp://239.253.43.1:5146
 #EXTINF:-1 ,肇庆生活服务 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.2:5146
+rtp://239.253.43.2:5146
 #EXTINF:-1 ,肇庆综合
-http://mail.beixiaoming.com:4000/udp/239.253.43.3:5146
+rtp://239.253.43.3:5146
 #EXTINF:-1 ,肇庆生活服务
-http://mail.beixiaoming.com:4000/udp/239.253.43.4:5146
+rtp://239.253.43.4:5146
 #EXTINF:-1 ,怀旧剧场 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.5:5146
+rtp://239.253.43.5:5146
 #EXTINF:-1 ,风云音乐 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.6:5146
+rtp://239.253.43.6:5146
 #EXTINF:-1 ,世界地理 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.7:5146
+rtp://239.253.43.7:5146
 #EXTINF:-1 ,女性时尚 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.8:5146
+rtp://239.253.43.8:5146
 #EXTINF:-1 ,兵器科技 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.9:5146
+rtp://239.253.43.9:5146
 #EXTINF:-1 ,电视指南 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.10:5146
+rtp://239.253.43.10:5146
 #EXTINF:-1 ,央视台球 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.11:5146
+rtp://239.253.43.11:5146
 #EXTINF:-1 ,高尔夫网球 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.12:5146
+rtp://239.253.43.12:5146
 #EXTINF:-1 ,央视文化精品 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.13:5146
+rtp://239.253.43.13:5146
 #EXTINF:-1 ,风云足球 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.14:5146
+rtp://239.253.43.14:5146
 #EXTINF:-1 ,第一剧场 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.15:5146
+rtp://239.253.43.15:5146
 #EXTINF:-1 ,风云剧场 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.16:5146
+rtp://239.253.43.16:5146
 #EXTINF:-1 ,CCTV-2 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.17:5146
+rtp://239.253.43.17:5146
 #EXTINF:-1 ,兵器科技 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.18:5146
+rtp://239.253.43.18:5146
 #EXTINF:-1 ,电视指南 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.19:5146
+rtp://239.253.43.19:5146
 #EXTINF:-1 ,风云足球 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.20:5146
+rtp://239.253.43.20:5146
 #EXTINF:-1 ,央视台球 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.21:5146
+rtp://239.253.43.21:5146
 #EXTINF:-1 ,高尔夫网球 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.22:5146
+rtp://239.253.43.22:5146
 #EXTINF:-1 ,女性时尚 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.23:5146
+rtp://239.253.43.23:5146
 #EXTINF:-1 ,世界地理 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.24:5146
+rtp://239.253.43.24:5146
 #EXTINF:-1 ,怀旧剧场 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.25:5146
+rtp://239.253.43.25:5146
 #EXTINF:-1 ,风云剧场 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.26:5146
+rtp://239.253.43.26:5146
 #EXTINF:-1 ,央视文化精品 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.27:5146
+rtp://239.253.43.27:5146
 #EXTINF:-1 ,第一剧场 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.28:5146
+rtp://239.253.43.28:5146
 #EXTINF:-1 ,风云音乐 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.29:5146
+rtp://239.253.43.29:5146
 #EXTINF:-1 ,汕头综合
-http://mail.beixiaoming.com:4000/udp/239.253.43.30:5146
+rtp://239.253.43.30:5146
 #EXTINF:-1 ,清远新闻综合
-http://mail.beixiaoming.com:4000/udp/239.253.43.31:5146
+rtp://239.253.43.31:5146
 #EXTINF:-1 ,清远文旅生活
-http://mail.beixiaoming.com:4000/udp/239.253.43.32:5146
+rtp://239.253.43.32:5146
 #EXTINF:-1 ,清远新闻综合 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.33:5146
+rtp://239.253.43.33:5146
 #EXTINF:-1 ,清远文旅生活 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.34:5146
+rtp://239.253.43.34:5146
 #EXTINF:-1 ,海南卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.35:5146
+rtp://239.253.43.35:5146
 #EXTINF:-1 ,广西卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.36:5146
+rtp://239.253.43.36:5146
 #EXTINF:-1 ,云南卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.37:5146
+rtp://239.253.43.37:5146
 #EXTINF:-1 ,信号传输故障
-http://mail.beixiaoming.com:4000/udp/239.253.43.38:5146
+rtp://239.253.43.38:5146
 #EXTINF:-1 ,优优宝贝
-http://mail.beixiaoming.com:4000/udp/239.253.43.39:5146
+rtp://239.253.43.39:5146
 #EXTINF:-1 ,中华美食 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.40:5146
+rtp://239.253.43.40:5146
 #EXTINF:-1 ,车迷
-http://mail.beixiaoming.com:4000/udp/239.253.43.41:5146
+rtp://239.253.43.41:5146
 #EXTINF:-1 ,生态环境
-http://mail.beixiaoming.com:4000/udp/239.253.43.42:5146
+rtp://239.253.43.42:5146
 #EXTINF:-1 ,汕头经济生活
-http://mail.beixiaoming.com:4000/udp/239.253.43.43:5146
+rtp://239.253.43.43:5146
 #EXTINF:-1 ,汕头文旅体育
-http://mail.beixiaoming.com:4000/udp/239.253.43.44:5146
+rtp://239.253.43.44:5146
 #EXTINF:-1 ,汕头综合 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.45:5146
+rtp://239.253.43.45:5146
 #EXTINF:-1 ,汕头经济生活 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.46:5146
+rtp://239.253.43.46:5146
 #EXTINF:-1 ,汕头文旅体育 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.47:5146
+rtp://239.253.43.47:5146
 #EXTINF:-1 ,佛山公共(主)
-http://mail.beixiaoming.com:4000/udp/239.253.43.48:5146
+rtp://239.253.43.48:5146
 #EXTINF:-1 ,南海频道(主)
-http://mail.beixiaoming.com:4000/udp/239.253.43.49:5146
+rtp://239.253.43.49:5146
 #EXTINF:-1 ,顺德频道(主)
-http://mail.beixiaoming.com:4000/udp/239.253.43.50:5146
+rtp://239.253.43.50:5146
 #EXTINF:-1 ,佛山影视(主)
-http://mail.beixiaoming.com:4000/udp/239.253.43.51:5146
+rtp://239.253.43.51:5146
 #EXTINF:-1 ,佛山综合(主)
-http://mail.beixiaoming.com:4000/udp/239.253.43.52:5146
+rtp://239.253.43.52:5146
 #EXTINF:-1 ,佛山公共HD(主)
-http://mail.beixiaoming.com:4000/udp/239.253.43.53:5146
+rtp://239.253.43.53:5146
 #EXTINF:-1 ,南海频道HD(主)
-http://mail.beixiaoming.com:4000/udp/239.253.43.54:5146
+rtp://239.253.43.54:5146
 #EXTINF:-1 ,顺德频道HD(主)
-http://mail.beixiaoming.com:4000/udp/239.253.43.55:5146
+rtp://239.253.43.55:5146
 #EXTINF:-1 ,佛山影视HD(主)
-http://mail.beixiaoming.com:4000/udp/239.253.43.56:5146
+rtp://239.253.43.56:5146
 #EXTINF:-1 ,佛山综合HD(主)
-http://mail.beixiaoming.com:4000/udp/239.253.43.57:5146
+rtp://239.253.43.57:5146
 #EXTINF:-1 ,证券服务
-http://mail.beixiaoming.com:4000/udp/239.253.43.58:5146
+rtp://239.253.43.58:5146
 #EXTINF:-1 ,中山综合
-http://mail.beixiaoming.com:4000/udp/239.253.43.59:5146
+rtp://239.253.43.59:5146
 #EXTINF:-1 ,中山公共
-http://mail.beixiaoming.com:4000/udp/239.253.43.60:5146
+rtp://239.253.43.60:5146
 #EXTINF:-1 ,中山教育（停播）
-http://mail.beixiaoming.com:4000/udp/239.253.43.61:5146
+rtp://239.253.43.61:5146
 #EXTINF:-1 ,中山综合HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.62:5146
+rtp://239.253.43.62:5146
 #EXTINF:-1 ,中山公共HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.63:5146
+rtp://239.253.43.63:5146
 #EXTINF:-1 ,中山教育HD（停播）
-http://mail.beixiaoming.com:4000/udp/239.253.43.64:5146
+rtp://239.253.43.64:5146
 #EXTINF:-1 ,广州综合
-http://mail.beixiaoming.com:4000/udp/239.253.43.66:5146
+rtp://239.253.43.66:5146
 #EXTINF:-1 ,广州新闻
-http://mail.beixiaoming.com:4000/udp/239.253.43.67:5146
+rtp://239.253.43.67:5146
 #EXTINF:-1 ,广州影视
-http://mail.beixiaoming.com:4000/udp/239.253.43.68:5146
+rtp://239.253.43.68:5146
 #EXTINF:-1 ,广州法治
-http://mail.beixiaoming.com:4000/udp/239.253.43.69:5146
+rtp://239.253.43.69:5146
 #EXTINF:-1 ,广州竞赛
-http://mail.beixiaoming.com:4000/udp/239.253.43.70:5146
+rtp://239.253.43.70:5146
 #EXTINF:-1 ,广州综合 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.71:5146
+rtp://239.253.43.71:5146
 #EXTINF:-1 ,广州新闻 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.72:5146
+rtp://239.253.43.72:5146
 #EXTINF:-1 ,广州影视 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.73:5146
+rtp://239.253.43.73:5146
 #EXTINF:-1 ,广州法治 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.74:5146
+rtp://239.253.43.74:5146
 #EXTINF:-1 ,广州竞赛 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.75:5146
+rtp://239.253.43.75:5146
 #EXTINF:-1 ,广视课堂 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.76:5146
+rtp://239.253.43.76:5146
 #EXTINF:-1 ,广视课堂 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.77:5146
+rtp://239.253.43.77:5146
 #EXTINF:-1 ,广视课堂 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.78:5146
+rtp://239.253.43.78:5146
 #EXTINF:-1 ,广视课堂 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.79:5146
+rtp://239.253.43.79:5146
 #EXTINF:-1 ,广视课堂 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.80:5146
+rtp://239.253.43.80:5146
 #EXTINF:-1 ,广视课堂 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.81:5146
+rtp://239.253.43.81:5146
 #EXTINF:-1 ,广视课堂 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.89:5146
+rtp://239.253.43.89:5146
 #EXTINF:-1 ,广视课堂 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.90:5146
+rtp://239.253.43.90:5146
 #EXTINF:-1 ,广视课堂 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.91:5146
+rtp://239.253.43.91:5146
 #EXTINF:-1 ,广视课堂 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.92:5146
+rtp://239.253.43.92:5146
 #EXTINF:-1 ,广视课堂 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.93:5146
+rtp://239.253.43.93:5146
 #EXTINF:-1 ,广东IPTV广告
-http://mail.beixiaoming.com:4000/udp/239.253.43.94:5146
+rtp://239.253.43.94:5146
 #EXTINF:-1 ,广东IPTV广告
-http://mail.beixiaoming.com:4000/udp/239.253.43.95:5146
+rtp://239.253.43.95:5146
 #EXTINF:-1 ,广东IPTV广告
-http://mail.beixiaoming.com:4000/udp/239.253.43.96:5146
+rtp://239.253.43.96:5146
 #EXTINF:-1 ,广东IPTV广告
-http://mail.beixiaoming.com:4000/udp/239.253.43.97:5146
+rtp://239.253.43.97:5146
 #EXTINF:-1 ,天元围棋
-http://mail.beixiaoming.com:4000/udp/239.253.43.98:5146
+rtp://239.253.43.98:5146
 #EXTINF:-1 ,南国都市4K
-http://mail.beixiaoming.com:4000/udp/239.253.43.99:5146
+rtp://239.253.43.99:5146
 #EXTINF:-1 ,云南卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.100:5146
+rtp://239.253.43.100:5146
 #EXTINF:-1 ,海南卫视 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.101:5146
+rtp://239.253.43.101:5146
 #EXTINF:-1 ,东莞新闻综合
-http://mail.beixiaoming.com:4000/udp/239.253.43.102:5146
+rtp://239.253.43.102:5146
 #EXTINF:-1 ,东莞生活资讯
-http://mail.beixiaoming.com:4000/udp/239.253.43.103:5146
+rtp://239.253.43.103:5146
 #EXTINF:-1 ,东莞新闻综合 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.104:5146
+rtp://239.253.43.104:5146
 #EXTINF:-1 ,东莞生活资讯 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.105:5146
+rtp://239.253.43.105:5146
 #EXTINF:-1 ,EBU
-http://mail.beixiaoming.com:4000/udp/239.253.43.165:5146
+rtp://239.253.43.165:5146
 #EXTINF:-1 ,云浮文旅
-http://mail.beixiaoming.com:4000/udp/239.253.43.194:5146
+rtp://239.253.43.194:5146
 #EXTINF:-1 ,云浮综合
-http://mail.beixiaoming.com:4000/udp/239.253.43.195:5146
+rtp://239.253.43.195:5146
 #EXTINF:-1 ,CCTV-13 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.196:5146
+rtp://239.253.43.196:5146
 #EXTINF:-1 ,CGTN阿拉伯语 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.200:5146
+rtp://239.253.43.200:5146
 #EXTINF:-1 ,CGTN俄语 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.201:5146
+rtp://239.253.43.201:5146
 #EXTINF:-1 ,河源综合 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.213:5146
+rtp://239.253.43.213:5146
 #EXTINF:-1 ,河源公共 HD
-http://mail.beixiaoming.com:4000/udp/239.253.43.214:5146
+rtp://239.253.43.214:5146
 #EXTINF:-1 ,河源综合
-http://mail.beixiaoming.com:4000/udp/239.253.43.215:5146
+rtp://239.253.43.215:5146
 #EXTINF:-1 ,河源公共
-http://mail.beixiaoming.com:4000/udp/239.253.43.216:5146
+rtp://239.253.43.216:5146
